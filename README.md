@@ -15,7 +15,6 @@ LightLauncher is a remote-first Android home screen for Android TV boxes and pho
 
 The application ID and Gradle namespace are `com.android.lightlauncher`. The visible app name is `LightLauncher`.
 
-This ID differs from an earlier build (`com.max.tvlauncher`). Android treats this as a separate app: installing it does not update or migrate the earlier app or its settings. If both are installed, choose **LightLauncher** in Android's Home app settings. You can remove the old app yourself after confirming the new one works.
 
 ## Requirements
 
