@@ -94,3 +94,7 @@ scripts/build.ps1                        Build and copy the debug APK
 - Android and custom ROMs limit background-process cleanup; the memory button can request cleanup but cannot force Android to terminate essential services.
 - Before publishing the wallpaper assets, confirm that you have permission to redistribute each image.
 - Generated build output, local SDK settings, and APKs are excluded by `.gitignore`.
+- If you run into problems, contact me at:
+  Email: v1dowdev@gmail.com
+  Telegram: @v1dow
+  Discord: @v11dow
